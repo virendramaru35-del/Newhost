@@ -1,0 +1,10 @@
+.env
+.env.local
+*.env
+inf/bot_data.db
+*.db
+upload_bots/*
+!upload_bots/.gitkeep
+__pycache__/
+*.py[cod]
+*.log
